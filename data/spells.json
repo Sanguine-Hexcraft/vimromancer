@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Start of Line",
+    "command": "0",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press '0'(zero) to move to start of a line"
+  },
+  {
+    "name": "End of Line",
+    "command": "$",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press '$' to move to the end of a line"
+  },
+  {
+    "name": "Move Cursor",
+    "command": "h j k l",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "'h' = left, 'j' = down, 'k' = up, 'l' = right"
+  },
+  {
+    "name": "Jump by Word",
+    "command": "w",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press 'w' to jump forward by word"
+  },
+  {
+    "name": "Jump Back",
+    "command": "b",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press 'b' to jump back a word"
+  },
+  {
+    "name": "Top of File",
+    "command": "gg",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press 'gg' top of file"
+  },
+  {
+    "name": "Bottom of File",
+    "command": "G",
+    "school": "Movement",
+    "level": 1,
+    "incantation": "Press 'G' bottom of file"
+  },
+  {
+    "name": "Bracket to Bracket",
+    "command": "%",
+    "school": "Movement",
+    "level": 2,
+    "incantation": "Press '%' to jump from open/close bracket to close/open"
+  }
+]
